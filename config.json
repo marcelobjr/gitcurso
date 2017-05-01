@@ -2,7 +2,13 @@
 {
 	"sistema": "Sistema ERP",
 	"modulos": {
-		"Clientes": "./cliente",
+		"Clientes": {
+			"patch": "./cliente",
+			"cad": "Cadastrar.js",
+			"alt": "Alterar.js",
+			"exc": "Excluir.js",
+			"list": "Listar.js"
+		},
 		"Usuarios": "./user"
 	}
 
