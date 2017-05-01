@@ -1,0 +1,9 @@
+
+{
+	"sistema": "Sistema ERP",
+	"modulos": {
+		"Clientes": "./cliente",
+		"Usuarios": "./user"
+	}
+
+}	

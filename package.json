@@ -1,0 +1,23 @@
+{
+  "name": "aula01",
+  "version": "1.0.1",
+
+  "description": "**Configurações \r *>git config --global user.name \"Seu Nome\"\r *>git config --global user.email \"seu@email.com\"\r *** ativar color\r *>git config --global color.ui true\r **Verificar Status\r *>git status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelobjr/gitcurso.git"
+  },
+  "author": "Marcelo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelobjr/gitcurso/issues"
+  },
+  "homepage": "https://github.com/marcelobjr/gitcurso#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
