@@ -9,7 +9,12 @@
 			"exc": "Excluir.js",
 			"list": "Listar.js"
 		},
-		"Usuarios": "./user"
+		"Usuarios": {
+			"patch": "./user",
+			"cad": "Cadastrar.js",
+			"alt": "Alterar.js",
+			"exc": "Excluir.js",
+			"list": "Listar.js"
+		}
 	}
-
 }	
