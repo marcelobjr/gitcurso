@@ -15,6 +15,13 @@
 			"alt": "Alterar.js",
 			"exc": "Excluir.js",
 			"list": "Listar.js"
+		},
+		"Inventario": {
+			"patch": "./inventario",
+			"cad": "ICadastrar.js",
+			"alt": "IAlterar.js",
+			"exc": "IExcluir.js",
+			"list": "IListar.js"
 		}
 	}
 }	
