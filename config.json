@@ -18,6 +18,7 @@
 		},
 		"Inventario": {
 			"patch": "./inventario",
+			"test": "teste",
 			"cad": "ICadastrar.js",
 			"alt": "IAlterar.js",
 			"exc": "IExcluir.js",
