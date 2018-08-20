@@ -1,1 +1,5 @@
 teste de gitignore
+teste para --squash
+segunda commit
+terceiro commit
+
